@@ -16,7 +16,20 @@ section {
   margin: 40px 0;
 	padding: 0 5%;
 }
-
+.back-to-top {
+	text-align: center;
+}
+.back-to-top a {
+	color: #4A4E69;
+}
+.tabs {
+	text-align: center;
+}
+.tabs a {
+	/*text-decoration: none;*/
+	color: #4A4E69;
+	padding: 50px;
+}
 .section-heading {
 	text-transform: uppercase;
   font-size: 1.6em;
