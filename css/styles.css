@@ -99,7 +99,7 @@ hr {
 
 .edu-logo {
 	height: 100px;
-	padding: 1px;
+	/*padding: 1px;*/
 }
 
 .ms-logo {
@@ -108,6 +108,10 @@ hr {
 }
 .sw-logo {
 	height: 25px;
+	display: inline;
+}
+.minitab-logo {
+	height: 16px;
 	display: inline;
 }
 .matlab-logo {
@@ -146,6 +150,10 @@ hr {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+.credits p, .credits a {
+	text-align: center;
+	color: white;
 }
 
 .footer-col {
