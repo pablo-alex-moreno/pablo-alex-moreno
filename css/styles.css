@@ -98,6 +98,16 @@ hr {
   margin: auto;
 }
 
+.list-container-work-ex img {
+	width: 240px;
+	border-radius: 5%;
+}
+
+.list-container-academic-ex img {
+	width: 120px;
+	border-radius: 5%;
+}
+
 .techlogo {
 	width:140px;
 }
