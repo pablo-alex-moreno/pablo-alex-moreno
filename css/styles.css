@@ -16,6 +16,15 @@ section {
   margin: 40px 0;
 	padding: 0 5%;
 }
+
+
+ul.navigation_list li {
+  display: inline;
+  text-decoration: none;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
 .back-to-top {
 	text-align: center;
 }
